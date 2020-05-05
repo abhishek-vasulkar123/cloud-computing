@@ -12,15 +12,15 @@ Organizations of every type, size, and industry are using the cloud for a wide v
 
 
 # Benifits of cloud computing:
--Cost Savings
--Security
--Flexibility
--Mobility
--Insight
--Increased Collaboration
--Quality Control
--Disaster Recovery
--Loss Prevention
--Automatic Software Updates
--Competitive Edge
--Sustainability
+- Cost Savings
+- Security
+- Flexibility
+- Mobility
+- Insight
+- Increased Collaboration
+- Quality Control
+- Disaster Recovery
+- Loss Prevention
+- Automatic Software Updates
+- Competitive Edge
+- Sustainability
